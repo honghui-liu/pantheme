@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## <center> Welcome to the homepage of Liu Honghui
 
-You can use the [editor on GitHub](https://github.com/honghui-liu/honghui-liu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a PhD student of the Department of Physics of Fudan University. Currently, my research interest is on X-ray spectral analysis of the radiation from accretion disks of black holes.
 
 ### Markdown
 
