@@ -6,3 +6,7 @@ I am a PhD student of the Department of Physics of Fudan University. Currently, 
 
 ## <center> Publications
 [My publication list from Inspire](http://inspirehep.net/search?p=exactauthor%3AHonghui.Liu.1+)
+
+## <center> Links
+* [Useful material](https://honghui-liu.github.io/useful-material/)
+* [Data Reduction Notes](https://honghui-liu.github.io/Data-Reduction-Notes/)
