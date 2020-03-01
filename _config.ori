@@ -14,11 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Liu Honghui
-subtitle: Astrophysics
-email: hhliu19@fudan.edu.cn
+email: your-email@example.com
 description: PhD student from Fudan University.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://honghui-liu.github.io/pantheme" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://honghui-liu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #url: "Users/honghui/Documents/website/panthera-jekyll-master/"
 twitter_username: example
 github_username:  honghui-liu
@@ -43,27 +42,13 @@ plugins:
 
 menu:
   - text: Home
-    link: https://honghui-liu.github.io/pantheme/
-    icon: ""
-
-  - text: Resume
-    link: https://honghui-liu.github.io/pantheme/resume
-    icon: ""
+    link: /
+    icon: fab fa-linkedin
 
   - text: Skills 
-    link: https://honghui-liu.github.io/pantheme/skills-and-offers
+    link: /skills-and-offers
     icon: ""
 
   - text: Blogs
-    link: https://honghui-liu.github.io/pantheme/blog
+    link: /blog
     icon: ""
-
-
-social_icons:
-  - name: github
-    link: https://github.com/honghui-liu
-    icon: fab fa-github-square
-  
-  - name: linkin
-    link: https://github.com/honghui-liu
-    icon: fas fa-rocket
