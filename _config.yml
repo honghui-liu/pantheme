@@ -25,9 +25,14 @@ github_username:  honghui-liu
 
 # Build settings
 #markdown: kramdown
-theme: minima
+
 plugins:
   - jekyll-feed
+  - jekyll
+  - html-proofer
+  - bundler
+  - rake
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -43,19 +48,19 @@ plugins:
 
 menu:
   - text: Home
-    link: https://honghui-liu.github.io/pantheme/
+    link: /
     icon: ""
 
   - text: Resume
-    link: https://honghui-liu.github.io/pantheme/resume
+    link: /resume
     icon: ""
 
   - text: Skills 
-    link: https://honghui-liu.github.io/pantheme/skills-and-offers
+    link: /skills-and-offers
     icon: ""
 
   - text: Blogs
-    link: https://honghui-liu.github.io/pantheme/blog
+    link: /blog
     icon: ""
 
 
@@ -64,6 +69,3 @@ social_icons:
     link: https://github.com/honghui-liu
     icon: fab fa-github-square
   
-  - name: linkin
-    link: https://github.com/honghui-liu
-    icon: fas fa-rocket
