@@ -28,7 +28,6 @@ github_username:  honghui-liu
 
 plugins:
   - jekyll-feed
-  - jekyll
   - html-proofer
   - bundler
   - rake
