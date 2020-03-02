@@ -69,3 +69,8 @@ social_icons:
     link: https://github.com/honghui-liu
     icon: fab fa-github-square
   
+  - name: email
+    link: hhliu19@fudan.edu.cn
+    icon: fas fa-envelope-open-text
+  
+  
